@@ -1,5 +1,5 @@
 {
-  "name": "astro-project",
+  "name": "astro-daisy-project",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -17,10 +17,10 @@
     "astro": "^4.16.10",
     "daisyui": "^4.12.14",
     "dayjs": "^1.11.13",
-    "sharp": "^0.33.5",
-    "tailwindcss": "^3.4.15"
+    "sharp": "^0.33.5"
   },
   "devDependencies": {
-    "@tailwindcss/typography": "^0.5.15"
+    "@tailwindcss/typography": "^0.5.15",
+    "tailwindcss": "^3.4.15"
   }
 }
