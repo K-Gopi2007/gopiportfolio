@@ -11,7 +11,7 @@ export default [
       "no-undef": "error",
       "no-console": "warn",
       "no-debugger": "error",
-
+      // gopi k is editing the file
       // Astro-specific rules
       // "astro/no-conflict-set-directives": "error",
       "astro/no-unused-define-vars-in-style": "error",
